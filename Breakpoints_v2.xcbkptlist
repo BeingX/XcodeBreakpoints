@@ -19,8 +19,7 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "Yes"
-            symbolName = "-[UIViewController dealloc]"
-            moduleName = "UIKit">
+            symbolName = "-[UIViewController dealloc]">
             <Actions>
                <BreakpointActionProxy
                   ActionExtensionID = "Xcode.BreakpointAction.Sound">
@@ -31,7 +30,7 @@
                <BreakpointActionProxy
                   ActionExtensionID = "Xcode.BreakpointAction.Log">
                   <ActionContent
-                     message = "--- dealloc @(id)[$arg1 description]@ @(id)[$arg1 title]@"
+                     message = "--- dealloc @(id)[$arg1 description]@"
                      conveyanceType = "0">
                   </ActionContent>
                </BreakpointActionProxy>
