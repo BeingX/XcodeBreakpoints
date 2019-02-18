@@ -1,5 +1,5 @@
 # XcodeBreakpoints
-cd  /Users/xingxing/Library/Developer/Xcode/UserData/
+cd  /Users/{user name}/Library/Developer/Xcode/UserData/
 
 
 run git clone https://github.com/BeingX/xcdebugger.git
